@@ -41,6 +41,7 @@ header {
 main {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .movie {
@@ -100,6 +101,8 @@ main {
 .movie:hover .overview {
   transform: translateY(0);
 }
+
+
 
 
 
