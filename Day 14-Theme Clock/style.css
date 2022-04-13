@@ -77,7 +77,7 @@ body {
   height: 100px;
 }
 
-.needle.seconds {
+.needle.second {
   transform: translate(-50%, -100%) rotate(0deg);
   height: 100px;
   background-color: #e74c3c;
