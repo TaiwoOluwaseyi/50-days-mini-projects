@@ -30,6 +30,7 @@ body {
   overflow: hidden;
 }
 
+
 .toggle {
   background-color: var(--pry-color);
   color: var(--sec-color);
@@ -66,6 +67,7 @@ body {
   height: 65px;
   width: 3px;
   transform-origin: bottom center;
+  transition: all 0.5s ease-in;
 }
 
 .needle.hour {
@@ -128,7 +130,7 @@ body {
   justify-content: center;
   line-height: 18px;
   transition: 0.5s ease-in;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 
