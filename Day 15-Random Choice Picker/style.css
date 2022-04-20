@@ -6,6 +6,7 @@ body {
   background-color: #2b88f0;
   display: flex;
   align-items: center;
+  flex-direction: column;
   justify-content: center;
   height: 100vh;
   margin: 0;
@@ -21,6 +22,7 @@ h3 {
 .container {
   width: 500px;
 }
+
 #textarea {
   border: none;
   display: block;
